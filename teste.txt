@@ -1,3 +1,5 @@
 Oi
 
 Olá!
+
+git remote add origin https://github.com/viniciusniero/ProjetoPI-2022.git
