@@ -1,5 +1,23 @@
-Oi
 
-Olá!
+Comando para GIT
 
 git remote add origin https://github.com/viniciusniero/ProjetoPI-2022.git
+
+
+$ git init
+
+$ git status
+
+$ git add .
+
+$ git status
+
+$ git commit -m "first commit"
+
+$ git remote add origin https://github.com/viniciusniero/ProjetoPI-2022.git
+
+$ git push -u origin main
+(Envia)
+
+$ git pull
+(Atualiza)
