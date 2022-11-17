@@ -1,7 +1,5 @@
-import React, { Component, useState } from 'react';
-import { Navbar, Nav, NavbarToggler, Collapse, NavItem,
-    Button, Modal, ModalHeader, ModalBody,
-    Form, FormGroup, Input, Label,Media, Container, Row, Col,} from 'reactstrap';
+import React, { Component } from 'react';
+import { Container, Row, Col,} from 'reactstrap';
 
 class Menu extends Component {
     constructor(props) {

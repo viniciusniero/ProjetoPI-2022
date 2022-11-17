@@ -6,7 +6,7 @@ function ContactForm() {
     
   const [state, handleSubmit] = useForm("xbjbwapd");
   if (state.succeeded) {
-      return <Col><p className='feedback' ju>Thanks for joining!</p></Col>;
+      return <Col><p className='feedback' ju>Obrigado!</p></Col>;
   }
   return (
       <form onSubmit={handleSubmit} className='Form'>
@@ -88,7 +88,7 @@ function ContactForm() {
       </div>
       <div className='button-form'>
       <button type="submit" className='button' disabled={state.submitting}>
-        Submit
+        Enviar
       </button>
       </div>
     </form>
