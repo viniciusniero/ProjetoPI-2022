@@ -19,7 +19,7 @@ function ContactForm() {
         id="name"
         type="name"
         name="Nome"
-        placeholder="Seu Nome Completo"
+        placeholder="Seu Nome Completo" required
       />
       </div>
       <div className='marginentreeles'>
@@ -40,7 +40,7 @@ function ContactForm() {
         <option value="Salgado">Salgado</option>
         <option value="Croissant de Pizza">Croissant de Pizza</option>
         <option value="Gelatina">Gelatina</option>
-        <option value="Hamburgao de Forno">Hamburgao de Forno</option>
+        <option value="Hamburgão de Forno">Hamburgão de Forno</option>
       </select>
       </div>
 
@@ -50,7 +50,7 @@ function ContactForm() {
       <select class="form-select" id="select2"
         type="select" 
         name="Pedido">
-        <option value="Nada">Nada</option>
+        <option value="Nada"><p>Nada</p></option>
         <option value="Achocolatado">Achocolatado</option>
         <option value="Coxinha">Coxinha</option>
         <option value="Suco em Caixa">Suco em Caixa</option>
@@ -62,7 +62,7 @@ function ContactForm() {
         <option value="Salgado">Salgado</option>
         <option value="Croissant de Pizza">Croissant de Pizza</option>
         <option value="Gelatina">Gelatina</option>
-        <option value="Hamburgao de Forno">Hamburgao de Forno</option>
+        <option value="Hamburgão de Forno">Hamburgão de Forno</option>
       </select>
       </div>
       <div>
@@ -83,7 +83,7 @@ function ContactForm() {
         <option value="Salgado">Salgado</option>
         <option value="Croissant de Pizza">Croissant de Pizza</option>
         <option value="Gelatina">Gelatina</option>
-        <option value="Hamburgao de Forno">Hamburgao de Forno</option>
+        <option value="Hamburgão de Forno">Hamburgão de Forno</option>
       </select>
       </div>
       <div className='button-form'>
