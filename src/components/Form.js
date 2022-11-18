@@ -28,7 +28,7 @@ function ContactForm() {
       <select class="form-select" id="select1"
         type="select" 
         name="Pedido">
-        <option value="Nada">Nada</option>
+        <option value="(Escolha)">(Escolha)</option>
         <option value="Achocolatado">Achocolatado</option>
         <option value="Coxinha">Coxinha</option>
         <option value="Suco em Caixa">Suco em Caixa</option>
@@ -50,7 +50,7 @@ function ContactForm() {
       <select class="form-select" id="select2"
         type="select" 
         name="Pedido">
-        <option value="Nada"><p>Nada</p></option>
+        <option value="(Escolha)">(Escolha)</option>
         <option value="Achocolatado">Achocolatado</option>
         <option value="Coxinha">Coxinha</option>
         <option value="Suco em Caixa">Suco em Caixa</option>
@@ -71,7 +71,7 @@ function ContactForm() {
       <select class="form-select" id="select3"
         type="select" 
         name="Pedido">
-        <option value="Nada">Nada</option>
+        <option value="(Escolha)">(Escolha)</option>
         <option value="Achocolatado">Achocolatado</option>
         <option value="Coxinha">Coxinha</option>
         <option value="Suco em Caixa">Suco em Caixa</option>
