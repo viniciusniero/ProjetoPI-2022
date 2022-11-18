@@ -67,7 +67,7 @@ code {
   text-align: center;
 }
 #produtos img{
-  border-radius: 3px;
+  border-radius: 15px;
 }
 .navbar{
   margin: 0;
@@ -77,6 +77,7 @@ code {
 .navbar img{
   margin-left: 24rem;
 }
+
 
 
 @media only screen and (max-width: 480px) {
@@ -107,8 +108,8 @@ code {
   }
   
   #produtos img{
-    border-radius: 3px;
-    width: 90%;
+    border-radius: 15px;
+    width: 75%;
   }
   .Form{
     margin-left: 5%;
